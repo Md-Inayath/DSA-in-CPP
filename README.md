@@ -7,10 +7,10 @@ This repository contains clean, well-commented implementations with time and spa
 🚀 Continuously updated as I learn and solve new problems.
 
 ## Topics Covered
+- [✔] Sorting
 - [ ] Hashing
 - [ ] Arrays
 - [ ] Searching
-- [ ] Sorting
 - [ ] Recursion
 - [ ] Linked Lists
 - [ ] Stack
